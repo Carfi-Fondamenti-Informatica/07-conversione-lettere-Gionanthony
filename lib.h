@@ -1,1 +1,7 @@
+#ifndef CONVERSIONE_LETTERE___ESERCITAZIONE_7_LIB_H
+#define CONVERSIONE_LETTERE___ESERCITAZIONE_7_LIB_H
+
+bool funzione (char a);
+
+#endif 
 
